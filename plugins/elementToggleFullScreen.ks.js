@@ -9,6 +9,7 @@ var PLUGIN_INFO =
     <license>The MIT License</license>
     <license lang="ja">MIT ライセンス</license>
     <minVersion>1.0</minVersion>
+    <include>main</include>
     <detail><![CDATA[
 === Description ===
 
