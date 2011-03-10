@@ -8,6 +8,7 @@ var PLUGIN_INFO =
     <author mail="re5etsmyth@gmail.com" homepage="http://twitter.com/re5et">re5et</author>
     <license>The MIT License</license>
     <license lang="ja">MIT ライセンス</license>
+    <minVersion>1.0</minVersion>
     <detail><![CDATA[
 === Description ===
 
